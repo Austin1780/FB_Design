@@ -4,4 +4,4 @@ This is the final project for the Web Design Basics course of Viking Code School
 The files in this repo include:
 * An open document text (.odt) file containing the explaination of the UX teardown, the design teardown, and the mockups
 * A PDF file containing images of all five of the mockups created in Balsamiq
-* 7 PNG files of the same 5 mockups and the information architecture and flow charts for the site.
+* 2 JPEG files of the information architecture and flow charts for UX teardown.
