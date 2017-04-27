@@ -1,6 +1,8 @@
 # Tearing Down and Mocking Up Facebook with Balsamiq
 This is the final project for the Web Design Basics course of Viking Code School’s prep work. The project involved doing a UX teardown of Facebook, followed by a design teardown of five of the main pages (home page when logged out, newsfeed when logged in, profile page, about page, and photos page), and, finally, a mockup of the same five pages.
 
+This project can also be viewed in my blog post at: https://austinwsmith.wordpress.com/2017/04/27/412/
+
 The files in this repo include:
 * An open document text (.odt) file containing the explaination of the UX teardown, the design teardown, and the mockups
 * A PDF file containing images of all five of the mockups created in Balsamiq
